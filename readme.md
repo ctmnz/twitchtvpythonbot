@@ -2,7 +2,6 @@ Python simple twtich.tv irc bot
 
 How to run it?
 
-
 1. Register username on twitch.tv
 2. Follow instructions here http://help.twitch.tv/customer/portal/articles/1302780-twitch-irc in order to obtain oauth token
 3. Download this bot on computer with installed python. git clone https://github.com/ctmnz/twitchtvpythonbot.git 
